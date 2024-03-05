@@ -1,0 +1,13 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.08" cx="80" cy="80" r="80" fill="#BEE7E7"/>
+<path d="M101.626 49.2041H57.3371C55.6063 49.2041 54.2827 47.8775 54.2827 46.1429V32.0612C54.2827 30.3265 55.6063 29 57.3371 29H101.525C103.255 29 104.579 30.3265 104.579 32.0612V46.1429C104.681 47.8775 103.255 49.2041 101.626 49.2041Z" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95.2127 58.6937V49.3059H79.5333H63.752V58.6937L51.4325 63.2855C46.9526 64.9181 44 69.2039 44 73.9998V121.653C44 126.857 48.2762 131.143 53.4687 131.143H79.5333H105.598C110.79 131.143 115.067 126.857 115.067 121.653V73.9998C115.067 69.2039 112.114 64.9181 107.634 63.2855L95.2127 58.6937Z" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96.9438 29V49.2041" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88.1873 29V49.2041" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M79.533 29V49.2041" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.7773 29V49.2041" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M62.123 29V49.2041" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M114.965 76.8572H44V115.735H114.965V76.8572Z" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M63.752 58.6938H95.2126" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M92.3619 84.0001C89.8165 83.592 86.4567 84.8164 84.3186 85.6328C82.8932 85.0205 81.2641 84.6124 79.5333 84.6124C77.8024 84.6124 76.2752 84.9185 74.748 85.6328C72.6099 84.7144 69.25 83.592 66.7047 84.0001C66.2974 86.5511 67.5192 90.0205 68.4355 92.1634C67.8246 93.592 67.5192 95.1226 67.5192 96.6532C67.5192 103.286 72.9153 108.694 79.5333 108.694C86.1512 108.694 91.5474 103.286 91.5474 96.6532C91.5474 95.0205 91.2419 93.4899 90.6311 92.1634C91.5474 90.0205 92.7692 86.5511 92.3619 84.0001Z" stroke="#BEE7E7" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

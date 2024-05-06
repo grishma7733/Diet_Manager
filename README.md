@@ -1,1 +1,1 @@
-Diet manager is a website which we created in order to easily create a diet plane and a workout routine for the user by entering the BMI index . we have designed this website user interface using HTML and CSS and in backend we have used javascript.
+Diet manager is a website which we created in order to easily create a diet plane for the users Dog by entering what age the dog is. we have designed this website user interface using HTML and CSS and bacend is yet too be made
